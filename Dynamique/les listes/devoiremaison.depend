@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1649296060 source:c:\users\azur\onedrive\bureau\homework\tp algo 2\devoiremaison\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"bib.h"
+
+1649294892 c:\users\azur\onedrive\bureau\homework\tp algo 2\devoiremaison\bib.h
+
+1649296077 source:c:\users\azur\onedrive\bureau\homework\tp algo 2\devoiremaison\main2.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"bib.h"
+

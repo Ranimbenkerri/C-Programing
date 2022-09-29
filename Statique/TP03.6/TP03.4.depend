@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1638318791 source:c:\users\azur\onedrive\bureau\tp 2 algo\tp03.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1638319151 source:c:\users\azur\onedrive\bureau\tp 2 algo\tp03.6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1638319151 source:c:\users\azur\onedrive\bureau\homework\tp 2 algo\tp03.6\main.c
+	<stdio.h>
+	<stdlib.h>
+

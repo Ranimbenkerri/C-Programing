@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642238665 source:c:\users\azur\onedrive\bureau\homework\tp 4 algo\tp04.exo3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

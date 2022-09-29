@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653386743 source:c:\users\azur\onedrive\bureau\homework\tp algo 2\llc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

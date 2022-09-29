@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652785544 source:c:\users\azur\onedrive\bureau\homework\tp algo 2\tp5_les_arbrs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
