@@ -1,2 +1,2 @@
 # C-Programing
- Some exercise using C (static + dynamique) 
+ Some exercise using C (statique + dynamique) 
